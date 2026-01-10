@@ -1,11 +1,11 @@
-# Reusable Glider Radiosonde — Project Timeline & Deliverables
+# Reusable Glider Radiosonde — Project Timeline
 
-This document defines the **chronological project timeline** for the development of a reusable glider radiosonde, from initial research to a system suitable for large‑scale real‑world deployment. The timeline is **phase‑based rather than time‑based**, allowing flexible commitment while preserving engineering discipline.
+This document defines the **chronological project timeline** for the development of a reusable glider radiosonde, from initial research to a system potentially suitable for large‑scale real‑world deployment. The timeline is **phase‑based** following waterfall methodology practices.
 
 Each phase includes:
 
 - **Purpose** (why the phase exists)
-- **Key activities**
+- **Key activities** (issues to be addressed)
 - **Concrete deliverables** (outputs that must exist before progressing)
 
 
@@ -18,19 +18,26 @@ Each phase includes:
 
 ### Purpose
 
-Establish a clear, defensible problem statement and define what “success” means relative to existing radiosonde systems.
+Establish a clear, defensible problem statement and define what “success” means relative to existing radiosonde systems. No formal system requirements are defined at this stage.
 
 ### Key Activities
 
 - Define environmental, economic, and operational motivations
-- Identify stakeholders (meteorological agencies, researchers, regulators)
+- Identify primary stakeholders
 - Define system boundaries and intended use cases
 
 ### Deliverables
 
-- Project charter (aim, scope, success criteria)
-- Explicit non‑goals and out‑of‑scope items
-- High‑level success metrics (cost, recovery rate, data quality, sustainability)
+- Project charter
+  - State aims and objectives
+  - State scope of the project (Explicit non‑goals and out‑of‑scope items)
+  - Set high‑level comparative success criteria (compared to benchmark in phase 1)
+    - cost
+    - data quality
+    - sustainability
+    - certification
+    - regulatory compliance
+    - operational capabilities
 
 
 
@@ -38,7 +45,7 @@ Establish a clear, defensible problem statement and define what “success” me
 
 
 
-## Phase 1 — Literature Review I: Conventional Radiosondes (Benchmarking)
+## Phase 1 — Benchmarking Review of Existing Radiosonde Systems
 
 ### Purpose
 
@@ -66,7 +73,7 @@ Establish a **quantitative baseline** against which all future design decisions 
 
 
 
-## Phase 2 — Literature Review II: Reusable & Recoverable Radiosonde Concepts
+## Phase 2 — Review of Reusable & Recoverable Radiosonde Concepts
 
 ### Purpose
 
