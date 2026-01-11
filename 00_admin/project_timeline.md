@@ -18,7 +18,8 @@ Each phase includes:
 
 ### Purpose
 
-Establish a clear, defensible problem statement and define what “success” means relative to existing radiosonde systems. No formal system requirements are defined at this stage.
+- Establish a clear, defensible problem statement and define what “success” means relative to existing radiosonde systems
+- No formal system requirements are defined at this stage
 
 ### Key Activities
 
@@ -35,7 +36,6 @@ Establish a clear, defensible problem statement and define what “success” me
     - cost
     - data quality
     - sustainability
-    - certification
     - regulatory compliance
     - operational capabilities
 
@@ -49,23 +49,67 @@ Establish a clear, defensible problem statement and define what “success” me
 
 ### Purpose
 
-Establish a **quantitative baseline** against which all future design decisions will be evaluated.
+- Establish a **quantitative operational baseline** for existing radiosonde systems against which all subsequent design decisions and performance claims will be evaluated
+- This phase characterises the current state of operational radiosonde deployments in terms of economic cost, technical capability, and environmental impact
 
 ### Key Activities
 
-- Review current commercial radiosonde designs
-- Analyse typical sensors, sampling rates, accuracies, and data pipelines
-- Study manufacturing, deployment, and disposal practices
-- Quantify environmental impact and lifecycle cost
+- Identify representative commercially deployed radiosonde systems used in European operational practice
+- Collect quantitative data on cost, performance, deployment, and disposal
+- Assess compliance with relevant meteorological, aviation, and telecommunications standards
+- Extrapolate economic and environmental impacts to regional and global deployment scales
 
 ### Deliverables
 
-- Benchmark report covering:
-  - Unit cost and operational cost per launch
-  - Sensor suite and data quality
-  - Power systems and endurance
-  - Environmental footprint
-- Summary tables defining reference performance values
+#### Economic Benchmarking
+
+Quantify the economic characteristics of current radiosonde operations.
+
+- Hardware unit cost and per-launch operational cost
+- Typical launch frequency and annual deployment rates
+- Cost per vertical atmospheric profile and per unit of usable data
+- Extrapolated annual expenditure at:
+  - UK scale
+  - European scale
+  - Global scale
+- Identification of dominant cost drivers (manufacture, logistics, unrecovered hardware)
+
+#### Technical Benchmarking
+
+Characterise the technical baseline of existing radiosonde systems.
+
+- Typical operational mission profile (launch, ascent, termination)
+- Sensor suite, sampling rates, and measurement accuracy
+- Onboard hardware and software architecture
+- Communications systems, frequencies, and data pipelines
+- Power systems, endurance, and mass breakdown
+- Compliance with:
+  - Meteorological measurement standards
+  - Aviation and airspace regulations
+  - Spectrum allocation and telemetry regulations
+
+#### Environmental Benchmarking
+
+Quantify the environmental consequences of current radiosonde practices.
+
+- Recovery rates and expected loss per launch
+- Materials unrecovered or released into the environment per mission
+- End-of-life pathways (land, ocean, degradation)
+- Estimated annual material loss at:
+  - UK scale
+  - European scale
+  - Global scale
+- Identification of dominant environmental impact drivers
+
+#### Benchmark Summary
+
+- Consolidated reference baseline for:
+  - Economic cost
+  - Technical performance
+  - Regulatory constraints
+  - Environmental impact
+Explicit identification of limitations and inefficiencies in current radiosonde systems
+
 
 
 
